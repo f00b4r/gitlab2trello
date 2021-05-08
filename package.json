@@ -4,7 +4,7 @@
   "author": "Milan Felix Sulc (@f3l1x)",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
